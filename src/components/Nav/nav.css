@@ -4,7 +4,7 @@
     align-items: center;
     justify-content: space-between ;
     padding: 15px 7%;
-     margin-bottom: 30px;
+     margin-bottom: 20px;
 }
 ul{
     list-style:  none;
@@ -22,5 +22,6 @@ ul li{
     display: flex;
     align-items: center;
     padding: 10px 20px;
-    border-radius: 50px;
+    border-radius: 50px; 
+    height: 40px;
 }

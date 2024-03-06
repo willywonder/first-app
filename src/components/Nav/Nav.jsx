@@ -7,7 +7,7 @@ const Navbar = () => {
       <img src={logo2} width={160} height={150} alt="" />
       <ul>
         <li> Home</li>
-        <li> menu</li>
+        <li> Menu</li>
         <li> Feedback</li>
       </ul>
       <div className=" searchbox">
